@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Eve
-version:            0.03
+version:            0.04
 abstract:           The web service creation framework written with events in mind.
 author:
     - Igor Zinovyev <zinigor@gmail.com>
