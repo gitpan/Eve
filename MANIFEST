@@ -114,4 +114,5 @@ t/support-arguments.t
 t/support.t
 t/template.t
 t/uri.t
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

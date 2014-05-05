@@ -13,6 +13,7 @@ WriteMakefile(
       : ()),
     PL_FILES            => {},
     PREREQ_PM => {
+        'Contextual::Return' => 0,
         'Test::More' => 0,
         'Test::Class' => 0,
         'PadWalker' => 0,
